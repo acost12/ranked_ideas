@@ -28,5 +28,11 @@
     "Title": "A new implementation of credit cards to pay in cafeteria.",
     "Author": "Ernesto Quintanilla",
     "Votes": "25"
+  },
+  {
+    "ID": "6",
+    "Title": "A bot that helps you saying your respective grades .",
+    "Author": "Mariano Nerio",
+    "Votes": "45"
   }
 ]
