@@ -15,7 +15,7 @@
        data.sort((a, b) => b.votes - a.votes);
        data.forEach(idea => {
         const li = document.createElement("li");
-        li.textContent = `${idea.title} - ${idea.votes} votes`;
+        li.textContent = `${idea.Title} - ${idea.Votes} Votes`;
         list.appendChild(li);
        });
      });
